@@ -166,9 +166,8 @@ function CourseList() {
           </div>
         </div>
       )}
-
-      <>
-      </>
+      <></>
+{/* bschbdsibui */}
     </div>
 
   );
