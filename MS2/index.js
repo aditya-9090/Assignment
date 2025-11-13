@@ -20,6 +20,7 @@ app.use(
 );
 app.use(express.static("public"));
 
+
 // Routes
 app.use("/user", userRoutes);
 app.use("/course", courseRoutes);
