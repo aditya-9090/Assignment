@@ -166,7 +166,11 @@ function CourseList() {
           </div>
         </div>
       )}
+
+      <>
+      </>
     </div>
+
   );
 }
 
